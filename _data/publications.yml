@@ -6,7 +6,7 @@ main:
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
     code: https://github.com/LeoHuang0511/FMDC
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dBSW3ys2M5UJ:scholar.google.com/&output=citation&scisdr=ClE8GOblEIaJuBt6ML0:AFWwaeYAAAAAZoF8KL0YZ52pkUtZMRXb8OhQmT4&scisig=AFWwaeYAAAAAZoF8KF69HYtxICAYoqKRKHhFDsE&scisf=4&ct=citation&cd=-1&hl=zh-TW&scfhb=1
+    bibtex: ./bibtex/FMDC_bibtex.txt
     image: ./assets/img/teaser_FMDC.png
     # notes: Early Accept
 
@@ -17,6 +17,6 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/9868981
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FKLFX330wO4J:scholar.google.com/&output=citation&scisdr=ClGBsQzlEIaJuBtrBE0:AFWwaeYAAAAAZoFtHE3hsVxq9oh7PmHP9tj5e14&scisig=AFWwaeYAAAAAZoFtHFqptN8lLPM1ULdzt85YOKc&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    bibtex: ./bibtex/mmWave_bibtex.txt
     # notes: Oral Presentation
     image: ./assets/img/teaser_mmWave.png

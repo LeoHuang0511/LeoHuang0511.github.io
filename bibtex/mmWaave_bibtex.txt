@@ -1,0 +1,8 @@
+@inproceedings{liao2022smart,
+  title={Smart Speaker Based on Detection of Millimeter Wave},
+  author={Liao, Yu-Ping and Huang, Feng-Kai and Xia, Ying-Jieh and Cheng, Hsiang},
+  booktitle={2022 IEEE International Conference on Consumer Electronics-Taiwan},
+  pages={439--440},
+  year={2022},
+  organization={IEEE}
+}

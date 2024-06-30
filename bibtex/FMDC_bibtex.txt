@@ -1,0 +1,7 @@
+@inproceedings{wan2024density,
+  title={Density-Based Flow Mask Integration via Deformable Convolution for Video People Flux Estimation},
+  author={Wan, Chang-Lin and Huang, Feng-Kai and Shuai, Hong-Han},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={6573--6582},
+  year={2024}
+}
