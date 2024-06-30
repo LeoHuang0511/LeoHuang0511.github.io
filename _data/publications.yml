@@ -1,7 +1,6 @@
 main:
 
-  - title: Density-Based Flow Mask Integration via Deformable Convolution for Video
-People Flux Estimation
+  - title: Density-Based Flow Mask Integration via Deformable Convolution for Video People Flux Estimation
     authors: Chang-Lin Wan, <strong>Feng-Kai Huang</strong>, Hong-Han Shuai
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
