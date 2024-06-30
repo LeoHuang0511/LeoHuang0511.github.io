@@ -1,22 +1,23 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Density-Based Flow Mask Integration via Deformable Convolution for Video
+People Flux Estimation
+    authors: Chang-Lin Wan, <strong>Feng-Kai Huang</strong>, Hong-Han Shuai
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
+    pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
+    code: https://github.com/LeoHuang0511/FMDC
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dBSW3ys2M5UJ:scholar.google.com/&output=citation&scisdr=ClGBsQzlEIaJuBtqc04:AFWwaeYAAAAAZoFsa06njs_08AoYqcVP1rFzad0&scisig=AFWwaeYAAAAAZoFsa46nHHJzjWPeS2ISROCkV6g&scisf=4&ct=citation&cd=-1&hl=zh-TW&scfhb=1
+    image: ./assets/img/FMDC_teaser.png
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Smart Speaker Based on Detection of Millimeter Wave"
+    authors: Yu-Ping Liao, <strong>Feng-Kai Huang</strong>, Ying-Jieh Xia, Hsiang Cheng
+    conference_short: ICCE-TW
+    conference: IEEE International Conference on Consumer Electronics-Taiwan <strong>(ICCE-TW)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9868981
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:FKLFX330wO4J:scholar.google.com/&output=citation&scisdr=ClGBsQzlEIaJuBtrBE0:AFWwaeYAAAAAZoFtHE3hsVxq9oh7PmHP9tj5e14&scisig=AFWwaeYAAAAAZoFtHFqptN8lLPM1ULdzt85YOKc&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    # notes: Oral Presentation
+    image: ./assets/img/teaser_mmWave.png
