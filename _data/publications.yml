@@ -6,7 +6,7 @@ main:
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
     code: https://github.com/LeoHuang0511/FMDC
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dBSW3ys2M5UJ:scholar.google.com/&output=citation&scisdr=ClGBsQzlEIaJuBtqc04:AFWwaeYAAAAAZoFsa06njs_08AoYqcVP1rFzad0&scisig=AFWwaeYAAAAAZoFsa46nHHJzjWPeS2ISROCkV6g&scisf=4&ct=citation&cd=-1&hl=zh-TW&scfhb=1
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dBSW3ys2M5UJ:scholar.google.com/&output=citation&scisdr=ClE8GOblEIaJuBt6ML0:AFWwaeYAAAAAZoF8KL0YZ52pkUtZMRXb8OhQmT4&scisig=AFWwaeYAAAAAZoF8KF69HYtxICAYoqKRKHhFDsE&scisf=4&ct=citation&cd=-1&hl=zh-TW&scfhb=1
     image: ./assets/img/teaser_FMDC.png
     # notes: Early Accept
 
