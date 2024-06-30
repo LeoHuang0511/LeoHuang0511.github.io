@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: homepage
 ---
 
-## About Me
+<!-- ## About Me
 
 I am a Ph.D. student at ...
 
