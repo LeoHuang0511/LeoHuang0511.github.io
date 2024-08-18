@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## About Me
+## Autobiography
 
-I am a Ph.D. student at ...
+Feng-Kai Huang received his B.S. degree from the Department of Electrical Engineering at Chung Yuan Christian University (CYCU), Taoyuan, Taiwan, in 2022, and his M.S. degree from the Graduate Program of Artificial Intelligence at National Yang Ming Chiao Tung University (NYCU), Hsinchu, Taiwan, in 2024. He is pursuing Ph.D. at the Department of Computer Science and Information Engineering, National Taiwan University (NTU), Taipei, Taiwan. His research interests include artificial intelligence, machine learning, and computer vision. His works have appeared in conferences such as WACV and IEEE ICCE-TW.
 
 ## Research Interests
 
