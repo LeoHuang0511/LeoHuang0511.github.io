@@ -1,6 +1,48 @@
 main:
 
-  - title: Density-Based Flow Mask Integration via Deformable Convolution for Video People Flux Estimation
+  - title: "Flowing Crowd to Count Flows: A Self‑Supervised Frameworkfor Video Individual Counting"
+    authors: <strong>Feng-Kai Huang</strong> and Bo-Lun Huang and Li-Wu Tsao and Jhih-Ciang Wu and Hong-Han Shuai and Wen-Huang Cheng
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2025.
+    # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
+    code: https://github.com/LeoHuang0511/VICSSL
+    project page: https://leohuang0511.github.io/vic-ssl/
+    # bibtex: ./bibtex/FMDC_bibtex.txt
+    image: ./assets/img/teaser_VICSSL.jpg
+    notes: Regular Track Paper
+
+  - title: "OinkTrack: An Ultra-Long-Term Dataset for Multi-Object Tracking and Re-Identification of Group-Housed Pigs"
+    authors: <strong>Feng-Kai Huang</strong> and Hong-Wei Xu and Chu-Chuan Lee and Hong-Yi Tu and Hong-Han Shuai and Wen-Huang Cheng
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2025.
+    # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
+    code: https://github.com/LeoHuang0511/OinkTrack
+    project page: https://leohuang0511.github.io/oinktrack-page/
+    # bibtex: ./bibtex/FMDC_bibtex.txt
+    image: ./assets/img/teaser_OinkTrack.jpg
+    notes: Dataset Track Paper
+  
+  - title: "When Anchors Meet Cold Diffusion: A Multi-Stage Approach to Lane Detection"
+    authors: Bo-Lun Huang and Zi-Xiang Ni and <strong>Feng-Kai Huang</strong> and Hong-Han Shuai and Wen-Huang Cheng
+    conference_short: ICCV
+    conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
+    code: https://github.com/ntudr/CDiffLane
+    # bibtex: ./bibtex/FMDC_bibtex.txt
+    image: ./assets/img/teaser_CDiffLane.jpg
+    # notes: Early Accept
+
+  - title: "IterDiff: Training-Free Iterative Face Editing via Efficient CLIP-guided Memory Bank"
+    authors: Chun-Yao Chiu and <strong>Feng-Kai Huang</strong> and Teng-Fang Hsiao and Hong-Han Shuai and Wen-Huang Cheng
+    conference_short: ICIP
+    conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2025.
+    pdf: https://basiclab.lab.nycu.edu.tw/assets/IterDiff.pdf
+    code: https://github.com/david20571015/IterDiff
+    # bibtex: ./bibtex/FMDC_bibtex.txt
+    image: ./assets/img/teaser_IterDiff.jpg
+    notes: Oral Presentation
+  
+  - title: "Density-Based Flow Mask Integration via Deformable Convolution for Video People Flux Estimation"
     authors: Chang-Lin Wan, <strong>Feng-Kai Huang</strong>, Hong-Han Shuai
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
