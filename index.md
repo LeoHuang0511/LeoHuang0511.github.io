@@ -13,7 +13,7 @@ His research interests are centered on **Artificial Intelligence**, **Machine Le
 - **Computer Vision:** Artificial Intelligence, Machine Learning, Computer Vision, Multimedia Processing
 
 
-## News
+<!-- ## News -->
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
@@ -22,4 +22,4 @@ His research interests are centered on **Artificial Intelligence**, **Machine Le
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}

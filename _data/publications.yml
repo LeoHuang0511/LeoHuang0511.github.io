@@ -6,7 +6,7 @@ main:
     conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2025.
     # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
     code: https://github.com/LeoHuang0511/VICSSL
-    project page: https://leohuang0511.github.io/vic-ssl/
+    page: https://leohuang0511.github.io/vic-ssl/
     # bibtex: ./bibtex/FMDC_bibtex.txt
     image: ./assets/img/teaser_VICSSL.jpg
     notes: Regular Track Paper
@@ -16,8 +16,8 @@ main:
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2025.
     # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
-    code: https://github.com/LeoHuang0511/OinkTrack
-    project page: https://leohuang0511.github.io/oinktrack-page/
+    # code: https://github.com/LeoHuang0511/OinkTrack
+    page: https://leohuang0511.github.io/oinktrack-page/
     # bibtex: ./bibtex/FMDC_bibtex.txt
     image: ./assets/img/teaser_OinkTrack.jpg
     notes: Dataset Track Paper
