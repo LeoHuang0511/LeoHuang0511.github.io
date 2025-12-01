@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://2026.ieeeicassp.org/"><autocolor>IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026</autocolor></a></li>
   <li><a href="https://acmmm2025.org/"><autocolor>ACM International Conference on Multimedia (MM) 2025</autocolor></a></li>
   <li><a href="https://2025.ieeeicme.org/"><autocolor>IEEE International Conference on Multimedia&Expo (ICME) 2025</autocolor></a></li>
   <li><a href="https://avss2025.org/"><autocolor>IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS) 2025</autocolor></a></li>
