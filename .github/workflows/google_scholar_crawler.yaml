@@ -1,27 +1,39 @@
 name: Get Citation Data
 
 on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+  # 移除 page_build，避免無限循環
+  schedule:
+    - cron: '0 8 * * *' # 每天早上 8 點執行一次
+  workflow_dispatch:      # 允許您手動點擊按鈕執行
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # 加入超時限制，防止腳本卡死（保險機制）
+    timeout-minutes: 15 
+    
     steps:
     - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Run Crawler
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
+        
+    - name: Commit and Push
+      run: |
         cd ./results
         git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        export remote_repo="https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
         git add *.json
-        git commit -m "Updated Citation Data"
+        # 加上 [skip ci] 可以進一步確保不會觸發其他 Action
+        git commit -m "Updated Citation Data [skip ci]"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
