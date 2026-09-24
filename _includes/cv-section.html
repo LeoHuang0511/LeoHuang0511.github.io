@@ -1,0 +1,7 @@
+{% assign section = include.section %}
+{% if section.enabled and section.items.size > 0 %}
+<section class="optional-section">
+  <h2>{{ include.title }}</h2>
+  {% include content-list.html items=section.items %}
+</section>
+{% endif %}

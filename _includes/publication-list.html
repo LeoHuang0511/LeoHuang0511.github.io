@@ -1,0 +1,21 @@
+<ol class="publications">
+  {% assign papers = site.data.publications.main %}
+  {% if include.limit %}{% assign papers = papers | slice: 0, include.limit %}{% endif %}
+  {% for paper in papers %}
+  <li class="publication">
+    {% if paper.image %}<img class="publication-image" src="{{ paper.image | relative_url }}" alt="Visual summary for {{ paper.title | escape }}" loading="lazy">{% endif %}
+    <div>
+      <h3>{% assign paper_url = paper.pdf | default: paper.page | default: paper.code %}{% if paper_url %}<a href="{{ paper_url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3>
+      <p class="authors">{{ paper.authors }}</p>
+      <p class="venue">{{ paper.conference }}</p>
+      <div class="paper-links">
+        {% if paper.pdf %}<a href="{{ paper.pdf }}">Paper</a>{% endif %}
+        {% if paper.code %}<a href="{{ paper.code }}">Code</a>{% endif %}
+        {% if paper.page %}<a href="{{ paper.page }}">Project</a>{% endif %}
+        {% if paper.bibtex %}<a href="{{ paper.bibtex | relative_url }}">BibTeX</a>{% endif %}
+        {% if paper.notes %}<span>{{ paper.notes }}</span>{% endif %}
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ol>

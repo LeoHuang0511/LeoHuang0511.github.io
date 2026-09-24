@@ -1,14 +1,14 @@
 main:
 
-  - title: "Flowing Crowd to Count Flows: A Self‑Supervised Frameworkfor Video Individual Counting"
+  - title: "Flowing Crowd to Count Flows: A Self‑Supervised Framework for Video Individual Counting"
     authors: <strong>Feng-Kai Huang</strong> and Bo-Lun Huang and Li-Wu Tsao and Jhih-Ciang Wu and Hong-Han Shuai and Wen-Huang Cheng
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2025.
     # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
     code: https://github.com/LeoHuang0511/VICSSL
     page: https://leohuang0511.github.io/vic-ssl/
-    # bibtex: ./bibtex/FMDC_bibtex.txt
-    image: ./assets/img/teaser_VICSSL.jpg
+    # bibtex: /bibtex/FMDC_bibtex.txt
+    image: /assets/img/teaser_VICSSL.jpg
     notes: Regular Track Paper
 
   - title: "OinkTrack: An Ultra-Long-Term Dataset for Multi-Object Tracking and Re-Identification of Group-Housed Pigs"
@@ -18,8 +18,8 @@ main:
     # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
     # code: https://github.com/LeoHuang0511/OinkTrack
     page: https://leohuang0511.github.io/oinktrack-page/
-    # bibtex: ./bibtex/FMDC_bibtex.txt
-    image: ./assets/img/teaser_OinkTrack.jpg
+    # bibtex: /bibtex/FMDC_bibtex.txt
+    image: /assets/img/teaser_OinkTrack.jpg
     notes: Dataset Track Paper
   
   - title: "When Anchors Meet Cold Diffusion: A Multi-Stage Approach to Lane Detection"
@@ -28,8 +28,8 @@ main:
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
     # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
     code: https://github.com/ntudr/CDiffLane
-    # bibtex: ./bibtex/FMDC_bibtex.txt
-    image: ./assets/img/teaser_CDiffLane.jpg
+    # bibtex: /bibtex/FMDC_bibtex.txt
+    image: /assets/img/teaser_CDiffLane.jpg
     # notes: Early Accept
 
   - title: "IterDiff: Training-Free Iterative Face Editing via Efficient CLIP-guided Memory Bank"
@@ -38,8 +38,8 @@ main:
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2025.
     pdf: https://basiclab.lab.nycu.edu.tw/assets/IterDiff.pdf
     code: https://github.com/david20571015/IterDiff
-    # bibtex: ./bibtex/FMDC_bibtex.txt
-    image: ./assets/img/teaser_IterDiff.jpg
+    # bibtex: /bibtex/FMDC_bibtex.txt
+    image: /assets/img/teaser_IterDiff.jpg
     notes: Oral Presentation
   
   - title: "Density-Based Flow Mask Integration via Deformable Convolution for Video People Flux Estimation"
@@ -48,8 +48,8 @@ main:
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
     code: https://github.com/LeoHuang0511/FMDC
-    bibtex: ./bibtex/FMDC_bibtex.txt
-    image: ./assets/img/teaser_FMDC.png
+    bibtex: /bibtex/FMDC_bibtex.txt
+    image: /assets/img/teaser_FMDC.png
     # notes: Early Accept
 
   - title: "Smart Speaker Based on Detection of Millimeter Wave"
@@ -59,6 +59,6 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/9868981
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: ./bibtex/mmWave_bibtex.txt
+    bibtex: /bibtex/mmWave_bibtex.txt
     # notes: Oral Presentation
-    image: ./assets/img/teaser_mmWave.png
+    image: /assets/img/teaser_mmWave.png

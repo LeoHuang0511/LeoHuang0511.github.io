@@ -1,0 +1,12 @@
+{% assign service = site.data.optional_content.cv.service %}
+{% if service.enabled and service.groups.size > 0 %}
+<section class="optional-section">
+  <h2>Academic Service</h2>
+  {% for group in service.groups %}
+  {% if group.items.size > 0 %}
+  <h3>{{ group.title }}</h3>
+  {% include content-list.html items=group.items %}
+  {% endif %}
+  {% endfor %}
+</section>
+{% endif %}

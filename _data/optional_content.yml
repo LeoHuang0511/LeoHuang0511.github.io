@@ -1,0 +1,48 @@
+# Optional profile sections. Fill in items first, then set enabled: true.
+# Items support: title, date, detail, and url. Remove unused empty examples.
+news:
+  enabled: false
+  items: []
+
+research:
+  projects:
+    enabled: false
+    items: []
+
+cv:
+  education:
+    enabled: false
+    items: []
+  experience:
+    enabled: false
+    items: []
+  awards:
+    enabled: false
+    items: []
+  talks:
+    enabled: false
+    items: []
+  teaching:
+    enabled: false
+    items: []
+  service:
+    enabled: true
+    groups:
+      - title: Conference Reviewers
+        items:
+          - title: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026
+            url: https://2026.ieeeicassp.org/
+          - title: ACM International Conference on Multimedia (MM) 2025
+            url: https://acmmm2025.org/
+          - title: IEEE International Conference on Multimedia & Expo (ICME) 2025
+            url: https://2025.ieeeicme.org/
+          - title: IEEE International Conference on Advanced Visual and Signal-Based Systems (AVSS) 2025
+            url: https://avss2025.org/
+          - title: International Conference on Technologies and Applications of Artificial Intelligence (TAAI) 2024
+            url: https://taai2024.org/
+      - title: Journal Reviewers
+        items:
+          - title: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+            url: https://www.computer.org/csdl/journal/tp
+          - title: ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+            url: https://dl.acm.org/journal/tomm

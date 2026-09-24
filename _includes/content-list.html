@@ -1,0 +1,11 @@
+<ul class="content-list">
+  {% for item in include.items %}
+  {% if item.title or item.detail %}
+  <li>
+    {% if item.url %}<a href="{{ item.url }}">{% endif %}<strong>{{ item.title }}</strong>{% if item.url %}</a>{% endif %}
+    {% if item.date %}<span class="item-date">{{ item.date }}</span>{% endif %}
+    {% if item.detail %}<p>{{ item.detail | markdownify }}</p>{% endif %}
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>

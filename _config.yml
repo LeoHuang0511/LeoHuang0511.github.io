@@ -1,57 +1,25 @@
-# Basic Information 
+# Personal information
 title: Feng-Kai Huang
 position: Ph.D. Student
 affiliation: National Taiwan University
+affiliation_link: https://www.csie.ntu.edu.tw/
 email: leonelhuang@cmlab.csie.ntu.edu.tw
-
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Feng-Kai Huang, Leonel Huang, FengKai Huang, feng-kai huang, fengkai huang, leonel huang, leonelhuang
-description: Kang-Yang Huang a Ph.D. student in the Department of Computer Science and Information Engineering at National Taiwan University, Taiwan, where I am part of the AIMM Group within the Communication and Multimedia Laboratory (CMLab), under the guidance of Prof. Wen-Huang Cheng and Prof. Hong-Han Shuai.
-canonical: https://leohuang0511.github.io/
-
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
+avatar: /assets/img/avatar.jpg
+favicon: /assets/img/favicon-dark.png
 google_scholar: https://scholar.google.com/citations?user=QlZ9PvYAAAAJ&hl=zh-TW
-cv_link: ./resume/general/main.pdf
-# github_link: https://github.com/LeoHuang0511
+cv_link: /resume/general/main.pdf
 linkedin: https://www.linkedin.com/in/leohuang0511/
-# twitter: https://twitter.com/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+# Search metadata
+keywords: Feng-Kai Huang, Leonel Huang, computer vision, artificial intelligence
+description: Feng-Kai (Leonel) Huang is a Ph.D. student at National Taiwan University working on artificial intelligence, computer vision, and multimedia processing.
+url: https://leohuang0511.github.io
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
-
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: false
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" #"Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-# google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+  - google_scholar_crawler/
+  - resume/**/*.tex
+  - resume/general/iiitv.png
