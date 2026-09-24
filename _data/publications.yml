@@ -2,7 +2,7 @@ main:
   - title: "Density-Assisted Adaptive Alignment Network for Video Individual Counting"
     authors: <strong>Feng-Kai Huang</strong> and Kai-Jui Weng and Jhih-Ciang Wu and Yung-Hui Li and Wen-Huang Cheng and Hong-Han Shuai
     conference_short: ACM TIST
-    conference: ACM ACM Transactions on Intelligent Systems and Technology <strong>(TIST)</strong>, accepted in August 2026.
+    conference: ACM Transactions on Intelligent Systems and Technology <strong>(TIST)</strong>, accepted in August 2026.
     # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
     code: https://github.com/LeoHuang0511/DAANet
     # page: https://leohuang0511.github.io/vic-ssl/
