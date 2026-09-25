@@ -27,7 +27,7 @@ Conda Ruby 的 gem 指令需要上述 symlink，讓 bundle 等 gem 啟動器找�
 | 首頁自我介紹與精選論文 | index.md |
 | 研究方向與研究專案 | research.md、_data/optional_content.yml |
 | 論文資訊、連結與縮圖 | _data/publications.yml |
-| 學歷、經歷、獎項、演講、教學、服務與近況 | _data/optional_content.yml |
+| 學歷、經歷、獎項、演講、教學助理、服務與近況 | _data/optional_content.yml |
 | 網站版型與導覽列 | _layouts/homepage.html |
 | 顏色、間距與手機版樣式 | assets/css/site.css |
 
@@ -40,7 +40,7 @@ Conda Ruby 的 gem 指令需要上述 symlink，讓 bundle 等 gem 啟動器找�
 - detail：補充說明，支援 Markdown
 - url：相關連結
 
-目前學歷、經歷、獎項、演講、教學、研究專案與近況都預設關閉；內容填好再開啟。沒有資料的區塊不會顯示。CV 導覽項目會在至少一個 CV 區塊已啟用且有資料時出現。現有會議與期刊審稿服務已啟用，位於 cv.service。
+目前已填入並啟用學歷、經歷、獎項、教學、研究專案與審稿服務；演講和近況仍關閉。之後新增區塊時，先填好內容再將該區塊的 enabled 設為 true。沒有資料的區塊不會顯示；CV 導覽項目會在至少一個 CV 區塊已啟用且有資料時出現。
 
 ### 新增論文
 

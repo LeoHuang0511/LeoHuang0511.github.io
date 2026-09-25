@@ -27,7 +27,7 @@ This repository is the English academic homepage of Feng-Kai Huang, published wi
 - Update site identity and links in _config.yml; write the biography in index.md.
 - Add publications to the top of _data/publications.yml so the newest appears first. Preserve the existing record keys: title, authors, conference_short, conference, pdf, code, page, bibtex, notes, and image. Author fields intentionally allow small HTML tags for bolding the site owner's name.
 - Put internal asset paths in root-relative form (for example /assets/img/name.jpg) and pass them through Jekyll's relative_url filter when rendering. Keep external URLs absolute.
-- Optional groups in _data/optional_content.yml start disabled. Add complete content before setting enabled to true; empty groups should remain hidden. CV navigation is shown only when an enabled CV group has content.
+- Optional groups in _data/optional_content.yml are individually enabled only when they have complete content; leave unused or empty groups disabled. Current education, experience, awards, teaching assistant, research projects, and reviewer service are populated and enabled. CV navigation is shown only when an enabled CV group has content.
 - Keep CV source/PDF updates separate from website bio data unless the user asks to synchronize them; they are distinct maintained files.
 - Put publication images in assets/img/ and BibTeX files in bibtex/. Do not add generated build output to source control.
 

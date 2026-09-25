@@ -35,7 +35,7 @@
       {% if cv.experience.enabled and cv.experience.items.size > 0 %}{% assign cv_has_content = true %}{% endif %}
       {% if cv.awards.enabled and cv.awards.items.size > 0 %}{% assign cv_has_content = true %}{% endif %}
       {% if cv.talks.enabled and cv.talks.items.size > 0 %}{% assign cv_has_content = true %}{% endif %}
-      {% if cv.teaching.enabled and cv.teaching.items.size > 0 %}{% assign cv_has_content = true %}{% endif %}
+      {% if cv.teaching_assistant.enabled and cv.teaching_assistant.items.size > 0 %}{% assign cv_has_content = true %}{% endif %}
       {% if cv.service.enabled and cv.service.groups.size > 0 %}{% assign cv_has_content = true %}{% endif %}
       {% if cv_has_content %}
       <a href="{{ '/cv/' | relative_url }}"{% if page.url contains '/cv' %} aria-current="page"{% endif %}>CV</a>

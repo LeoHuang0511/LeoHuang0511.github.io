@@ -7,29 +7,88 @@ news:
 research:
   projects:
     enabled: false
-    items: []
+    items:
+      - title: Multi-sensor AI Chips for Precision Swine Pathogen Detection
+        detail: Track activity levels and body temperatures of captive pigs to detect abnormalities, combined with a multi-antigen biosensor chip to identify unknown infectious diseases.
+      - title: "FasterBID: Accelerating Bidirectional Decoding with Uncertainty Gating and Parameter-Free Weak Priors"
+        detail: Accelerate Vision Language Action models during test-time adaptation, achieving a 1.6x speedup while maintaining accuracy through uncertainty gating and fast-weak policies.
 
 cv:
   education:
-    enabled: false
-    items: []
+    enabled: true
+    items:
+      - title: National Taiwan University (NTU)
+        date: Aug. 2024–Present
+        detail: "Ph.D. student in Computer Science and Information Engineering. GPA: 4.22/4.3. Advisors: [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) and [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/). Member of CMLab–AIMM and BASIC Lab."
+      - title: National Yang Ming Chiao Tung University (NYCU)
+        date: Sep. 2022–Jul. 2024
+        detail: "Master’s degree in the Graduate Degree Program of Artificial Intelligence. GPA: 4.25/4.3. Advisor: [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/). Member of BASIC Lab; Honorary Member of the Phi Tau Phi Scholastic Honor Society."
+      - title: Chung Yuan Christian University (CYCU)
+        date: Sep. 2018–Jun. 2022
+        detail: "Bachelor’s degree in Electrical Engineering. GPA: 3.98/4.0; ranked first in the department. Honorary Member of the Phi Tau Phi Scholastic Honor Society."
   experience:
-    enabled: false
-    items: []
+    enabled: true
+    items:
+      - title: Teaching Assistant, National Taiwan University
+        date: Mar. 2025–Dec. 2025
+        detail: Assisted students with coursework and managed assessment activities. See **Teaching Assistant** for course and assignment details.
   awards:
-    enabled: false
-    items: []
+    enabled: true
+    items:
+      - title: ACM SIGMM Student Travel Grant (ACM MM 2025)
+        date: 2025
+        url: https://records.sigmm.org/2026/02/02/reports-from-acm-multimedia-2025/
+      - title: Graduate Research Fellowship, National Science and Technology Council
+        date: 2024
+        url: /assets/certificates/academic/2024_Graduate_Research_Fellowship.pdf
+      - title: Certificate of Excellence, NYCU (Spring 2022–2023)
+        date: 2023
+        url: /assets/certificates/academic/NYCU_Certificate_of_Excellence.pdf
+      - title: Certificate of Excellence, CYCU (six semesters)
+        date: 2018–2021
+        url: /assets/certificates/academic/CYCU_Certificate_of_Excellence.pdf
+      - title: Subjects Merit Awards, CYCU
+        date: 2018–2021
+        detail: Calculus I, Circuit Theory I & II, Engineering Mathematics II, Electronics II, Principles of Communications, Business Data Communication, and Electromagnetism.
+        url: /assets/certificates/academic/CYCU_subject_merit_award.pdf
+      - title: Gold Prize, Seoul International Invention Fair
+        date: 2021
+        url: /assets/certificates/international/Seoul_International_Invention_Fair.pdf
+      - title: Honorable Mention Award, AI CUP Competition on UAV Smart Counting
+        date: 2022
+        url: https://global.turingcerts.com/en/co/cert?hash=3e49cd4e1c3bf7628f2cc9f15499e9a4da9b9cc3501d16f7dcb2a98fd2349023
+      - title: Honorable Award, Student Engineering Papers Competition of the Chinese Institute of Engineers
+        date: 2021
+        url: /assets/certificates/domestic/2021_CIE_Student_Engineering_Papers_Competition.pdf
+      - title: 1st Place (TQC+) and 3rd Place (IP), International ICT Innovative Services Awards
+        date: 2021
+        url: /assets/certificates/domestic/2021_InnoServe_IP.pdf
+      - title: 3rd Place (TQC+), International ICT Innovative Services Awards
+        date: 2020
+        url: /assets/certificates/domestic/2020_InnoServe_TQC+.pdf
   talks:
     enabled: false
     items: []
-  teaching:
-    enabled: false
-    items: []
+  teaching_assistant:
+    enabled: true
+    items:
+      - title: Artificial Intelligence, National Taiwan University
+        date: 2025
+        detail: Co-designed three hands-on assignments covering MLLMs, retrieval-augmented generation (RAG), and multi-agent systems.
+      - title: Computer Vision Practice with Deep Learning, National Taiwan University
+        date: 2025
+        detail: Designed two hands-on assignments covering object detection and image generation.
   service:
     enabled: true
     groups:
       - title: Conference Reviewers
         items:
+          - title: The 41st Annual AAAI Conference on Artificial Intelligence (AAAI) 2027
+            url: https://aaai.org/conference/aaai/aaai-27/
+          - title: The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS) 2026
+            url: https://neurips.cc/
+          - title: The 19th European Conference on Computer Vision (ECCV) 2026
+            url: https://eccv.ecva.net/
           - title: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026
             url: https://2026.ieeeicassp.org/
           - title: ACM International Conference on Multimedia (MM) 2025
@@ -44,5 +103,9 @@ cv:
         items:
           - title: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
             url: https://www.computer.org/csdl/journal/tp
+          - title: IEEE Transactions on Image Processing (TIP)
+            url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
+          - title: IEEE Transactions on Multimedia (TMM)
+            url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
           - title: ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
             url: https://dl.acm.org/journal/tomm

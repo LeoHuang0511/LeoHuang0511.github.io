@@ -13,5 +13,5 @@ permalink: /cv/
 {% include cv-section.html title="Experience" section=cv.experience %}
 {% include cv-section.html title="Awards" section=cv.awards %}
 {% include cv-section.html title="Talks" section=cv.talks %}
-{% include cv-section.html title="Teaching" section=cv.teaching %}
+{% include cv-section.html title="Teaching Assistant" section=cv.teaching_assistant %}
 {% include service-section.html %}
