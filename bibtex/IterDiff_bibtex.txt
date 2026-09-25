@@ -1,0 +1,8 @@
+@inproceedings{chiu2025iterdiff,
+  title={IterDiff: Training-Free Iterative Face Editing Via Efficient Clip-Guided Memory Bank},
+  author={Chiu, Chun-Yao and Huang, Feng-Kai and Hsiao, Teng-Fang and Shuai, Hong-Han and Cheng, Wen-Huang},
+  booktitle={2025 IEEE International Conference on Image Processing (ICIP)},
+  pages={1498--1503},
+  year={2025},
+  organization={IEEE}
+}

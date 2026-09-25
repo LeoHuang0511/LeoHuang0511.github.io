@@ -1,0 +1,7 @@
+@inproceedings{huang2025oinktrack,
+  title={OinkTrack: An Ultra-Long-Term Dataset for Multi-Object Tracking and Re-Identification of Group-Housed Pigs},
+  author={Huang, Feng-Kai and Xu, Hong-Wei and Lee, Chu-Chuan and Tu, Hong-Yi and Shuai, Hong-Han and Cheng, Wen-Huang},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={12556--12563},
+  year={2025}
+}

@@ -1,8 +1,8 @@
 main:
   - title: "Density-Assisted Adaptive Alignment Network for Video Individual Counting"
-    authors: <strong>Feng-Kai Huang</strong> and Kai-Jui Weng and Jhih-Ciang Wu and Yung-Hui Li and Wen-Huang Cheng and Hong-Han Shuai
+    authors: <strong>Feng-Kai Huang</strong>, Kai-Jui Weng, Jhih-Ciang Wu, Yung-Hui Li, Wen-Huang Cheng, and Hong-Han Shuai
     conference_short: ACM TIST
-    conference: ACM Transactions on Intelligent Systems and Technology <strong>(TIST)</strong>, accepted in August 2026.
+    conference: ACM Transactions on Intelligent Systems, Technology <strong>(TIST)</strong>, accepted in August 2026.
     # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
     code: https://github.com/LeoHuang0511/DAANet
     # page: https://leohuang0511.github.io/vic-ssl/
@@ -11,49 +11,51 @@ main:
     # notes:
 
   - title: "Flowing Crowd to Count Flows: A Self‑Supervised Framework for Video Individual Counting"
-    authors: <strong>Feng-Kai Huang</strong> and Bo-Lun Huang and Li-Wu Tsao and Jhih-Ciang Wu and Hong-Han Shuai and Wen-Huang Cheng
+    authors: <strong>Feng-Kai Huang</strong>, Bo-Lun Huang, Li-Wu Tsao, Jhih-Ciang Wu, Hong-Han Shuai, and Wen-Huang Cheng
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2025.
     pdf: https://dl.acm.org/doi/epdf/10.1145/3746027.3755385
     code: https://github.com/LeoHuang0511/VICSSL
     page: https://leohuang0511.github.io/vic-ssl/
-    # bibtex: /bibtex/FMDC_bibtex.txt
+    bibtex: /bibtex/VICSSL_bibtex.txt
     image: /assets/img/teaser_VICSSL.jpg
-    notes: Regular Track Paper
+    notes: Oral
 
-  - title: "OinkTrack: An Ultra-Long-Term Dataset for Multi-Object Tracking and Re-Identification of Group-Housed Pigs"
-    authors: <strong>Feng-Kai Huang</strong> and Hong-Wei Xu and Chu-Chuan Lee and Hong-Yi Tu and Hong-Han Shuai and Wen-Huang Cheng
+
+  - title: "OinkTrack: An Ultra-Long-Term Dataset for Multi-Object Tracking, Re-Identification of Group-Housed Pigs"
+    authors: <strong>Feng-Kai Huang</strong>, Hong-Wei Xu, Chu-Chuan Lee, Hong-Yi Tu, Hong-Han Shuai, and Wen-Huang Cheng
     conference_short: ACM MM
-    conference: ACM International Conference on Multimedia <strong>(MM)</strong>, 2025.
+    conference: ACM International Conference on Multimedia <strong>(MM)</strong> (Dataset Track), 2025.
     pdf: https://dl.acm.org/doi/epdf/10.1145/3746027.3758189
     # code: https://github.com/LeoHuang0511/OinkTrack
     page: https://leohuang0511.github.io/oinktrack-page/
-    # bibtex: /bibtex/FMDC_bibtex.txt
+    bibtex: /bibtex/OinkTrack_bibtex.txt
     image: /assets/img/teaser_OinkTrack.jpg
-    notes: Dataset Track Paper
+    notes: Oral
+
   
   - title: "When Anchors Meet Cold Diffusion: A Multi-Stage Approach to Lane Detection"
-    authors: Bo-Lun Huang and Zi-Xiang Ni and <strong>Feng-Kai Huang</strong> and Hong-Han Shuai and Wen-Huang Cheng
+    authors: Bo-Lun Huang, Zi-Xiang Ni, <strong>Feng-Kai Huang</strong>, Hong-Han Shuai, and Wen-Huang Cheng
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
     # pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
     code: https://github.com/ntudr/CDiffLane
-    # bibtex: /bibtex/FMDC_bibtex.txt
+    bibtex: /bibtex/CDiffLane_bibtex.txt
     image: /assets/img/teaser_CDiffLane.jpg
     # notes: Early Accept
 
   - title: "IterDiff: Training-Free Iterative Face Editing via Efficient CLIP-guided Memory Bank"
-    authors: Chun-Yao Chiu and <strong>Feng-Kai Huang</strong> and Teng-Fang Hsiao and Hong-Han Shuai and Wen-Huang Cheng
+    authors: Chun-Yao Chiu, <strong>Feng-Kai Huang</strong>, Teng-Fang Hsiao, Hong-Han Shuai, and Wen-Huang Cheng
     conference_short: ICIP
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2025.
     pdf: https://basiclab.lab.nycu.edu.tw/assets/IterDiff.pdf
     code: https://github.com/david20571015/IterDiff
-    # bibtex: /bibtex/FMDC_bibtex.txt
+    bibtex: /bibtex/IterDiff_bibtex.txt
     image: /assets/img/teaser_IterDiff.jpg
-    notes: Oral Presentation
+    notes: Oral
   
   - title: "Density-Based Flow Mask Integration via Deformable Convolution for Video People Flux Estimation"
-    authors: Chang-Lin Wan, <strong>Feng-Kai Huang</strong>, Hong-Han Shuai
+    authors: Chang-Lin Wan, <strong>Feng-Kai Huang</strong>, and Hong-Han Shuai
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024.
     pdf: https://openaccess.thecvf.com/content/WACV2024/papers/Wan_Density-Based_Flow_Mask_Integration_via_Deformable_Convolution_for_Video_People_WACV_2024_paper.pdf
@@ -63,12 +65,12 @@ main:
     # notes: Early Accept
 
   - title: "Smart Speaker Based on Detection of Millimeter Wave"
-    authors: Yu-Ping Liao, <strong>Feng-Kai Huang</strong>, Ying-Jieh Xia, Hsiang Cheng
+    authors: Yu-Ping Liao, <strong>Feng-Kai Huang</strong>, Ying-Jieh Xia, andHsiang Cheng
     conference_short: ICCE-TW
     conference: IEEE International Conference on Consumer Electronics-Taiwan <strong>(ICCE-TW)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/abstract/document/9868981
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: /bibtex/mmWave_bibtex.txt
-    # notes: Oral Presentation
+    notes: Oral
     image: /assets/img/teaser_mmWave.png

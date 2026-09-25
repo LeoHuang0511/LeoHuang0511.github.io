@@ -1,0 +1,7 @@
+@inproceedings{huang2025flowing,
+  title={Flowing Crowd to Count Flows: A Self-Supervised Framework for Video Individual Counting},
+  author={Huang, Feng-Kai and Huang, Bo-Lun and Tsao, Li-Wu and Wu, Jhih-Ciang and Shuai, Hong-Han and Cheng, Wen-Huang},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={8234--8243},
+  year={2025}
+}

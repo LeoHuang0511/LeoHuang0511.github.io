@@ -1,0 +1,8 @@
+@inproceedings{huang2025anchors,
+  title={When anchors meet cold diffusion: A multi-stage approach to lane detection},
+  author={Huang, Bo-Lun and Ni, Zi-Xiang and Huang, Feng-Kai and Shuai, Hong-Han and Cheng, Wen-Huang},
+  booktitle={2025 IEEE/CVF International Conference on Computer Vision (ICCV)},
+  pages={27917--27926},
+  year={2025},
+  organization={IEEE}
+}
